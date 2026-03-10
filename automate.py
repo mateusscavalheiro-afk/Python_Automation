@@ -48,3 +48,11 @@ tm.sleep(1)
 py.moveTo(1124, 144)
 tm.sleep(0.5)
 py.click(1124, 144)
+
+#Função             Quantidade de Usos     
+#time.sleep()         18 vezes            
+#pyautogui.moveTo()    9 vezes
+#pyautogui.click()     9 vezes 
+#pyautogui.press()     5 vezes
+#pyautogui.write()     4 vezes
+#pyautogui.alert()     1 vez
